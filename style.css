@@ -31,3 +31,17 @@ input {
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     box-sizing: border-box;
 }
+button {
+    background-color: #debff4;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 20px;
+    width: 100px;
+}
+button:hover {
+    background-color: #d1a3e0;
+}
