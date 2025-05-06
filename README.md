@@ -33,10 +33,10 @@ Check out the live demo here: [https://luyandaaaa.github.io/Weather_app/](https:
 
 ##📂 Code Structure <br />
 Weather_app/ <br />
-├── 📄 index.html        # Main HTML file
-├── � style.css         # CSS styles
-├── 📜 script.js         # JavaScript functionality
-└── 📝 README.md         # Project documentation
+├── 📄 index.html        # Main HTML file  <br />
+├── � style.css         # CSS styles <br />
+├── 📜 script.js         # JavaScript functionality <br />
+└── 📝 README.md         # Project documentation <br />
 
 ##🌐 API Reference
 This app uses the OpenWeatherMap API:
