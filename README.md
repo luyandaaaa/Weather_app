@@ -45,3 +45,5 @@ Current weather data endpoint
 
 5-day/3-hour forecast endpoint
 
+## 📜 License
+This project is open source and available under the MIT License.
