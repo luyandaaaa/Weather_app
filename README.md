@@ -31,7 +31,7 @@ Check out the live demo here: [https://luyandaaaa.github.io/Weather_app/](https:
 
 📊 View current weather conditions and hourly forecast
 
-##📂 Code Structure
+##📂 Code Structure <br />
 Weather_app/ <br />
 ├── 📄 index.html        # Main HTML file
 ├── � style.css         # CSS styles
