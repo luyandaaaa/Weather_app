@@ -24,26 +24,26 @@ Check out the live demo here: [https://luyandaaaa.github.io/Weather_app/](https:
 - ![OpenWeatherMap API](https://img.shields.io/badge/-OpenWeatherMap-1E90FF)
 - ![Font Awesome](https://img.shields.io/badge/-Font%20Awesome-528DD7?logo=fontawesome&logoColor=white)
 
-##💻 Usage
+## 💻 Usage
 🔍 Enter a city name in the search box
 
 🔎 Click the search button or press Enter
 
 📊 View current weather conditions and hourly forecast
 
-##📂 Code Structure <br />
+## 📂 Code Structure <br />
 Weather_app/ <br />
 ├── 📄 index.html        # Main HTML file  <br />
 ├── � style.css         # CSS styles <br />
 ├── 📜 script.js         # JavaScript functionality <br />
 └── 📝 README.md         # Project documentation <br />
 
-##🌐 API Reference
+## 🌐 API Reference
 This app uses the OpenWeatherMap API:
 
 Current weather data endpoint
 
 5-day/3-hour forecast endpoint
 
-##📜 License
+## 📜 License
 This project is open source and available under the MIT License.
